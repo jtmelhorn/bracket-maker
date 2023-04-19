@@ -1,4 +1,5 @@
 Converts CSV in format of team, name, alias, elo, mm-rank, and (hopefully) groups people who are signed up into groups of similar skill level if they do not have a team.  Follows top seed vs bottom seed format.  Won't work if teamless people % 5 != 0 
+
 [
     [
         {
